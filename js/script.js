@@ -56,11 +56,11 @@ const personalMoviesDB = {
 };
 
 
-// start();
+start();
 
-// rememberMyFilms();
+rememberMyFilms();
 
-// detectPersonalLevel(); 
+detectPersonalLevel(); 
 
 writeYourGenres();
 
